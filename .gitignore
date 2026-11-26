@@ -1,0 +1,9 @@
+build/
+build-*/
+cmake-build-*/
+*.user
+
+.vscode
+AGENTS.md
+
+tmp
